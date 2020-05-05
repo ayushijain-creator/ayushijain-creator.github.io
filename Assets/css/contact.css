@@ -1,0 +1,62 @@
+.Header {
+    background-image: url(../image/students.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 301px;
+}
+.breadcrumb {
+  position: relative;
+    padding: 20px;
+    list-style: none;
+    background-color: #e9ecef;
+   
+}
+.contact {
+   position: relative;
+    padding: 21px;
+}
+textarea.form-control {
+    width: auto;
+    max-width: 695px;
+    height: 100px;
+}
+.cow h3 {
+   position: relative;
+    font-size: 25px;
+    font-weight: 400;
+    color: #029EB7;
+}
+.cut {
+    padding: 13px;
+    width: auto;
+    max-width:685px;
+}
+.input-group-text {
+    background-color: white;
+ 
+    color: #767676;
+}
+.map h2{
+   font-size: 30px;
+    font-weight: 400;
+    color: #029EB7;
+  position: relative;
+}
+.contact i{
+    color: #029EB7;
+}
+button.btn{
+   position: relative;
+    width: 80px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #029EB7;
+    color: white;
+
+}
+iframe {
+    width: 1416px;
+    height: 400px;
+    max-width: 100%;
+}

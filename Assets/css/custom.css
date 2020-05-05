@@ -1,0 +1,174 @@
+ @font-face { 
+    font-family: 'Lato', sans-serif;
+    src : url(assets/fonts/Lato-Black.ttf);    
+}
+@font-face { 
+    font-family: 'Lato', sans-serif;
+    src : url(assets/fonts/Lato-Bold.ttf);
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src : url(assets/fonts/Lato-Regular.ttf);
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src : url(fonts/Lato-Italic.ttf);
+}
+body {
+   font-family: 'Noto Sans JP', sans-serif; 
+}
+
+.content {
+    padding: 30px 0px 10px 0px
+}
+h4{
+    border-color: aqua;
+    border-width: 25px;
+}
+.content p {
+    
+    font-size:100;
+        color:gray;
+}
+.content h4 {
+    font-size: 40;
+margin: 15px;
+    color: aqua
+}
+.content{
+    padding: 20px 10px 0px 0px;
+}
+.content{
+    color: gray;
+}
+table,th,td
+{
+    border: solid black;
+}
+th,td
+{
+    cell padding: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.content
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.content
+input[type=button], input[type=submit], input[type=reset] {
+  background-color:blue;
+  color: white;
+  padding: 10px 22px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+special
+{
+    background-color: aqua;
+}
+ li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.content{
+    
+}
+.gallerybtn content-text {
+    position: relative;
+       padding: 50px;
+    border: 2px solid #707070;
+    background-color: aqua;
+        box-shadow: 2px 7px 8px #707070;
+}
+.content-text h4 {
+       font-size: 42px;
+    font-weight: 600;
+    color: red;
+}
+.content-text p {
+   color: #707070;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.section-header nav.navbar.navbar-expand-lg.navbar-light.bg-light.navbar-justify-content-end {
+    background-color: black !important;
+}
+.section-header a.nav-link {
+    color: white !important;
+    margin-left: 13px;
+    font-size: 18px;
+}
+.imagediv img {
+    height: 350px;
+    width: 500px;
+    
+}
+/* media query start */
+@media only screen and (max-width: 768px) { 
+    
+}
+@media  (min-width: 768px) and (max-width: 992px) { 
+    
+}
+@media  (min-width: 992px) and (max-width: 1200px) {
+
+   
+}

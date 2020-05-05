@@ -1,0 +1,645 @@
+section {
+    overflow: hidden;
+}
+img {
+    overflow: hidden;
+}
+.content {
+    position: relative;
+    background-image: url(../image/what_is_creative_teaching-e1433788418645.jpeg);
+    background-size: cover;
+    margin: 0px;
+    padding: 60px 117px;
+    width: 100%;
+   z-index: 1;
+    background-position: center;
+}
+ .content h4 {
+   position: relative;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: cursive;
+    color: #029EB7;
+     z-index: 1;
+    
+}
+.content h2 {
+    position: relative;
+    font-size: 45px;
+    font-weight: 500;
+    color: white;
+    font-family: cursive;
+    z-index: 1;
+     
+}
+
+.fly-1 {
+    position: relative;
+ font-size: 32px;
+    font-weight: 500;
+    color: #029EB7;
+    font-family: cursive;
+    width: auto;
+    z-index: 1;
+
+}
+
+.content p {
+    position: relative;
+    text-align: left;
+    padding: 70px 0px;
+    margin: 0px;
+    color: blanchedalmond;
+    width: 100%;
+    max-width: 500px;
+    z-index: 1;
+}
+
+   
+
+
+button.btn-1 {
+    position: relative;
+    border-radius: 7px;
+     color: white;
+    padding: 10px 20px;
+    font-size: 14px;
+    border-color: transparent;
+    background-color: #029EB7;
+}
+
+.content::after{ 
+  content: "";
+  background-color:black;
+  position:relative;
+    opacity: 0.3;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 420px;
+}
+.content-para h4 {
+    z-index: 1;
+    position: relative;
+}
+.subject{
+    overflow: hidden;
+    margin: 60px;
+}
+
+.subject h4 {
+    font-size: 1.5rem;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: cursive;
+    margin: 0px;
+    padding: 10px;
+    position: relative;
+   
+}
+.subject sub p {
+    font-size: 22px;
+    font-weight: 300;
+    color: black;
+    margin: 0px;
+ padding: 0px;
+ position: relative;
+}
+
+
+.subject hr {
+    position: relative;
+    padding: 0px;
+    border: 1px solid #029EB7;
+    width: 70px;
+    display: inline-block;
+    margin: 10px;
+}
+.img-fluid {
+    position: relative;
+    max-width: 100%;
+    height: 490px;
+}
+.always {
+    margin: 10px;
+    padding: 0px;
+}
+.always i{
+    border-radius: 10px;
+    
+        
+    
+}
+
+.always Flyover{
+    color:black;
+}
+.always p {
+   position: relative;
+    text-align: center;
+    color: #767676;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    max-width: 100%;
+        margin: 13px;
+}
+    
+.always img {
+    width: 31px;
+    height: 27px;
+    margin: 0px;
+    max-width: 100%;
+    position: relative;
+    float: left;
+}
+
+.always h6 {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: #58575D;
+    max-width: 100%;
+    display: inline-block;
+    margin: 1px;
+}
+
+.mob{
+    background-color:#029EB7;
+    padding: 50px;
+}
+.mobile h2 {
+   position: relative;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.mobile  h3 {
+   position: relative;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+.mobile button{
+    margin: 0 auto;
+}
+button.phone {
+    position: relative;
+    padding: 10px 15px;
+    border-radius: 8px;
+    background: white;
+    color: grey;
+}
+.readbtndiv {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 130px;
+}
+
+
+.services {
+  padding: 50px;
+}
+.subha h4 {
+    position: relative;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+    color: #029EB7;
+    font-family: sans-serif;
+}
+
+.subha hr {
+    border: 1px solid #029EB7;
+    width: 370px;
+    max-width: 100%;
+}
+.subha p{
+   position: relative;  
+     height: 100px;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+.para img {
+    max-width: 100%;
+    position: relative;
+    border-radius: 10px;
+    width: auto;
+    height: 245px;
+}
+.para {
+    background-clip: border-box;
+    border: 1px solid #767676;
+    box-shadow: 4px 6px #e3e3e3;
+    border-radius: 10px;
+    position: relative;
+    max-width: 100%;
+}
+.para p {
+   max-width: 100%;
+    position: relative;
+    text-align: center;
+    color: #767676;
+}
+
+.para h4 {
+   position: relative;
+    max-width: 100%;
+    text-align: center;
+    color: grey;
+    font-size: 27px;
+}
+.para img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+  h4:hover{
+    color: #029EB7;
+    }
+
+.bottle{
+    background-image: url('../image/Privateschool-58b5b2173df78cdcd8a980c7.jpg');
+    background-attachment: fixed;
+   background-size: cover; 
+    padding: 30px;
+    position: relative;
+    z-index: 1;
+}
+ .cow h4 {
+   position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+      z-index: 1;
+}
+.cow hr {
+   position: relative;
+    max-width: 100%;
+    border: 1px solid #029EB7;
+    width: 260px;
+     z-index: 1;
+}
+
+.cow p{
+    max-width: 100%;
+    position: relative;
+    text-align: center;
+    color: #029EB7;
+     z-index: 1;
+}
+.student  h5 {
+   position: relative;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    z-index: 1;
+}
+.student p {
+    text-align: center;
+    max-width: 100%;
+    position: relative;
+    z-index: 1;
+    color: white;
+    
+}
+.bottle::after { 
+  content: "";
+  background-color:plum;
+  position:relative;
+    opacity: 0.3;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 420px;
+    
+}
+.student {
+    background-clip: border-box;
+    border: 1px solid white;
+    box-shadow: 2px 2px white;
+    border-radius: 11px;
+    position: relative;
+    max-width: 100%;
+}
+.fa-bus:before {
+    content: "\f207";
+    font-size: 33px;
+    color: #029EB7;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin: 0px;
+    padding: 0px;
+}
+.paper {
+    margin: 42px;
+    padding: 10px;
+    max-width: 100%;
+    position: relative;    
+}
+.paper h3 {
+   position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: #029EB7;
+}
+.paper hr {
+    position: relative;
+    border: 1px solid #029EB7;
+    width: 370px;
+    max-width: 100%;
+}
+.paper p{
+    position: relative;
+    margin: 0px;
+    text-align: center;
+    max-width: 100%;
+}
+.name{
+    background-color:#f6ddc7;
+}
+.pen{
+     margin: 0 auto;
+    max-width: 100%;
+    
+    display: inline;
+}
+.pen button {
+    position: relative;
+    padding: 10px 15px;
+    border-radius: 8px;
+    background: white;
+    color: grey;
+}
+.pen1 button{
+    
+}
+.image1 img {
+    position: relative;
+    width: 270px;
+    height: 241px;
+    max-width: 100%;
+    max-height: 100%;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    opacity: 1;
+}
+.image2 img{
+     position: relative;
+    width: 270px;
+    height: 241px;
+    max-width: 100%;
+    max-height: 100%;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.image1 img:hover {
+  opacity: 0.6;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.image2 img:hover {
+  opacity: 0.6;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.image1 text {
+  background-color:white;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.table {
+    background-image: url('../image/65578876d4f20e9.jpg');
+    padding: 34px;
+    max-width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.chair h3 {
+  position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+}
+.chair p{
+     padding: 0px;
+    margin: 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    position: relative;
+}
+.fa-quote-left:before {
+    content: "\f10d";
+    font-size: 30px;
+ position: relative;
+    color: #029EB7;
+    max-width: 100%;
+}
+.chair1 p {
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    max-width: 100%;
+}
+.chair1 cite{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+}
+.chair1 img{
+    width: 90px;
+    height: 90px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-right: 0px;
+    padding: 0px;
+    max-width: 100%;   
+}
+span.karma {
+    color: #029EB7;
+    font-size: 16px;
+}
+.jio{
+     padding: 50px;
+}
+.tap  h3 {
+   position: relative;
+    font-size: 40px;
+    font-weight: 500;
+    color: #029EB7;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+    border: 1px solid #029EB7;
+    width: 350px;
+}
+.card {
+    border: 1px solid #767676;
+    box-shadow: 5px 6px #767676;
+    border-radius: 10px;
+}
+.footer{
+       background-color: #8A7bd1;
+    padding: 50px;
+    background-image: url('../image/footer-border-top1.png');
+    background-position: center top;
+    background-repeat: repeat-x;
+}
+  
+    
+    
+    .footer-section img {
+    width: 170px;
+    height: 121px;
+        margin: 12px;
+        padding: 3px;
+}
+    
+  .footer-section p {
+    color: white;
+    margin: 2px 4px;
+    padding: 8px 10px;
+    font-size: medium;
+}
+    
+    .footer-section h4{
+       
+    color: white;
+    margin: 19px 14px;
+    padding: 0px;
+    font-size: 23px;
+    font-weight: 100%;
+
+    }
+    .footer-section hr{
+    border: 1px solid #8A7BD1;
+    margin: -11px 0px 16px;
+        width: 141px;
+      }
+    .foot-1 img{
+        width: 90px;
+        height: 72px;
+    }
+    .foot-1 h6{
+        margin: 16px 6px;
+        float:right;
+        color:white;
+    }
+    .foot-1 p{
+          margin: -55px -4px;
+        float:right;
+        color:white;
+        max-height: 100%;
+        
+    }
+    li::before{
+        
+    }
+    .foot-5 h4{
+        color: white;
+    margin: 19px 14px;
+    padding: 0px;
+    font-size: 23px;
+    font-weight: 100%;
+    }
+   
+    .foot-5 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    margin: 0px;
+    border-bottom-style: dashed;
+    border: -1px;
+    border-color: steelblue;
+        width: 266px;
+    max-width: 100%;
+}
+    .foot-5 hr{
+        border: 1px solid #8A7BD1;
+    margin: -11px 0px 16px;
+    width: 141px;
+    }
+    .foot-6 h4{
+ color: white;
+    margin: 17px;
+    padding: 0px;
+    font-size: 26px;
+}
+    .foot-6 i {
+    color: white;
+    margin: 11px 13px;
+    padding: 0px;
+    font-size: 20px;
+}  
+    .foot-6 p{
+    text-align: center;
+    padding: 0px 0px 0px 23px;
+    margin: 0px 0px 20px;
+        color:white;
+}
+    .foot-11  {
+    color: white;
+    padding: 0px 20px;
+    margin: 0px;
+    font-size: 20px;
+}
+   .font-11 p {
+    margin: 0px 19px;
+    padding: 0px 1px;
+    font-size: 10px;
+}
+    .foot-6 hr{
+  
+    border: 1px solid #8a7bd1;
+    margin: 20px;
+    padding: 0px 8px;
+}
+    button:hover{
+      color:orangered;
+    }
+    h5:hover{
+    color: aqua;
+    }
+    i:hover{
+        background-color:bisque;
+    }
+    button:hover {
+  opacity: 0.8;
+}
+
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+    
+    
+    
+     }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+    

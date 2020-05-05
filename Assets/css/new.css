@@ -1,0 +1,162 @@
+section{
+    overflow: hidden;
+}
+.bottle img {
+    vertical-align: middle;
+    border-style: none;
+    width: fit-content;
+    height: 100%;
+    max-width: 100%;
+    max-height: 277px;
+}
+.bottle-1 img{
+     
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    max-height: 277px;
+}
+.bottle-2 img{
+     
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    max-height: 277px;
+}
+.bottle-3 img{
+     
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    max-height: 277px;
+}
+span.onsale {
+    background-color: #86bc42;
+    border-radius: 0;
+    color: #fff;
+    font-weight: 600;
+    left: 0;
+    line-height: inherit;
+    margin: 14px;
+    min-height: inherit;
+    min-width: inherit;
+    padding: 3px 12px;
+    top: -13px;
+    position: absolute;
+}
+
+.header h4 {
+  padding: 0px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+.header p {
+    padding: 0px 21px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.bottle button {
+    background-color: #86bc42;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 5px;
+}
+ .bottle-1 button {
+    background-color: #86bc42;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 4px;
+    margin: 10px;
+     padding: 5px;
+}
+ .bottle-2 button {
+    background-color: #86bc42;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 4px;
+    margin: 10px;
+     padding: 5px;
+}
+ .bottle-3 button {
+    background-color: #86bc42;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 4px;
+    margin: 10px;
+     padding: 5px;
+}
+ 
+. bottle button:hover{
+    background: grey;
+}
+.bottle{
+    border: 1px solid lightgrey;
+   
+    box-shadow: 3px 4px grey;
+        
+}
+p.sum {
+    font-size: 23px;
+    font-weight: 400;
+}
+.header hr {
+    border: 3px solid #86bc42;
+    margin: 0px;
+}
+.fa-heart:before {
+    content: "\f004";
+    border: 1px solid white;
+    background-color: #86bc42;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    padding: 3px;
+}
+ .fa-sync:before {
+    content: "\f021";
+    border: 1px solid white;
+    background-color: #86bc42;
+    font-size: 20px;
+    color: white;
+    padding: 3px;
+    margin: 8px;
+}
+.david img {
+    height: 90px;
+    width: 90px;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+.roy{
+    background-image: url('../image/photo-1523634921619-37ce98c1877f.jpg');
+    background-attachment: fixed;
+    background-position:center;
+    margin: 0px 10px;
+}
+.wire hr{
+    border: 1px solid black;
+    width: 224px;
+}
+.wire{
+    padding: 30px;
+}
+.wirless h4 {
+    font-size: 40px;
+    font-weight: 400;
+    color: #029EB7;
+}
+.wirless p {
+    font-size: 12px;
+    font-weight: 500;
+    color: grey;
+}
+.comp img{
+    
+}

@@ -1,0 +1,382 @@
+  * {
+  box-sizing: border-box;
+}
+.apna{
+        background-color:red;
+        width:100%;
+        height: 60px;   
+        padding: 4px;
+         top:6px;
+   }
+    
+   .apna ul li{      
+          list-style-type: none;
+          display: inline-block;
+    }
+.apna nav{
+    float: right;
+}
+.apna ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    width: 502px;
+    margin: 11px;
+    max-width: 100%;
+}
+    
+.content-block {
+   
+    height: 399px;
+    background-image: url(../image/websitejumpstudents2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid red;
+    max-width: 100%;
+    max-height: 400px;
+}
+  
+    .frst-section h3 {
+    text-align: center;
+    color: #8A7BD1;
+    font-size: 38px;
+}
+    .frst-section hr{
+        border: 1px solid #707070;
+    width: 28%;
+           }
+    .frst-section p{
+        margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    max-width: 100%;
+}
+   
+    .card-title {
+    margin-bottom: .75rem;
+    color: purple;
+    margin: 0px;
+    padding: 14px;
+    text-align: center;
+}
+      .card-img-top {
+    border-radius:27px;
+    height: 250px;
+    width: 270px;
+      }
+    .btn-heading{
+        background-color:beige;
+            padding: 17px 24px;
+    }
+    
+    .btn-heading h4{
+         text-align: center;
+    color: #8A7BD1;
+    font-size: 38px;
+        
+    }
+    .btn-heading p{
+         margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+   max-width: 100%;
+    }
+    
+    button.btn {
+    border: 0px;
+   
+    color: mediumpurple;
+    font-size: 15px;
+    border-radius: 50px;
+    box-shadow: 1px 1px 4px;
+        padding: 15px 21px 9px;
+    margin: 6px 160px 19px;
+        width: 100% auto;
+}
+    .content-image img {
+    width: 276px;
+    height: 238px;
+    box-sizing: 1px 4px 6px;
+    margin: 14px;
+    padding: 13px;
+    box-shadow: 1px 2px 2px;
+}
+    .section-head{
+        background-color:antiquewhite;
+            padding: 25px;
+    margin: 0px 0px 10px;
+
+    } 
+    .section-head h4{
+        text-align: center;
+    color: #8A7BD1;
+    font-size: 33px;
+    }
+    .section-head p{
+          margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin: 6px 0px 45px;
+    padding: 10px 0px 0px;
+    }
+  .font-awesome {
+    background: white;
+    width: 100px;
+    height: 100px;
+       border-radius: 100%;
+    box-shadow: 1px 1px 4px #707070;
+          border: 3px solid;
+}
+      .font-awesome i {
+          font-size: 50px;
+    color: red;
+    margin: 25px 27px;
+    text-align: center;
+      }
+   
+    
+    button.phn-1 {
+   position: absolute;
+  top: 64%;
+  left: 40%;
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+ 
+  cursor: pointer;
+  border-radius: 5px;
+        max-width: 100%;
+         width:134px;
+        height:60px;
+}
+     button.phn-2{
+     position: absolute;
+  top: 64%;
+  left:55%;
+  background-color: transparent;
+  color: plum;
+  font-size: 16px;
+  
+  cursor: pointer;
+  border-radius: 5px;
+border:5px solid purple;
+         max-width: 100%;
+         width:134px;
+        height:60px;
+}
+    .best h4{
+        text-align: center;
+    color: #8A7BD1;
+    font-size: 38px;
+    }
+    .best p{
+        margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin: 6px 0px 7px;
+    padding: -4px 0px 0px;
+    }
+   .best {
+    padding: 17px;
+    margin: px;
+    margin: 14px;
+}
+    .best hr {
+    border: 1px solid #8A7BD1;
+    margin: 3px 464px 16px;
+    width: 368px;
+}
+    .font-awesome {
+    background: white;
+    width: 105px;
+    height: 100px;
+       border-radius: 100%;
+    box-shadow: 1px 1px 4px #707070;
+          border: 3px solid;
+        margin: 4px 25px;
+}
+      .font-awesome i {
+          font-size: 50px;
+    color: red;
+    margin: 25px 27px;
+    text-align: center;
+      }
+    .footer{
+        background-color:#103157;
+    }
+    
+    
+    .footer-section img {
+    width: 170px;
+    height: 121px;
+        margin: 12px;
+        padding: 3px;
+}
+    
+  .footer-section p {
+    color: white;
+    margin: 2px 4px;
+    padding: 8px 10px;
+    font-size: medium;
+}
+    
+    .footer-section h4{
+       
+    color: white;
+    margin: 19px 14px;
+    padding: 0px;
+    font-size: 23px;
+    font-weight: 100%;
+
+    }
+    .footer-section hr{
+    border: 1px solid #8A7BD1;
+    margin: -11px 0px 16px;
+        width: 141px;
+      }
+    .foot-1 img{
+        width: 90px;
+        height: 72px;
+    }
+    .foot-1 h6{
+        margin: 16px 6px;
+        float:right;
+        color:white;
+    }
+    .foot-1 p{
+          margin: -55px -4px;
+        float:right;
+        color:white;
+        max-height: 100%;
+        
+    }
+    li::before{
+        
+    }
+    .foot-5 h4{
+        color: white;
+    margin: 19px 14px;
+    padding: 0px;
+    font-size: 23px;
+    font-weight: 100%;
+    }
+   
+    .foot-5 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    margin: 0px;
+    border-bottom-style: dashed;
+    border: -1px;
+    border-color: steelblue;
+        width: 266px;
+    max-width: 100%;
+}
+    .foot-5 hr{
+        border: 1px solid #8A7BD1;
+    margin: -11px 0px 16px;
+    width: 141px;
+    }
+    .foot-6 h4{
+ color: white;
+    margin: 17px;
+    padding: 0px;
+    font-size: 26px;
+}
+    .foot-6 i {
+    color: white;
+    margin: 11px 13px;
+    padding: 0px;
+    font-size: 20px;
+}  
+    .foot-6 p{
+    text-align: center;
+    padding: 0px 0px 0px 23px;
+    margin: 0px 0px 20px;
+        color:white;
+}
+    .foot-11  {
+    color: white;
+    padding: 0px 20px;
+    margin: 0px;
+    font-size: 20px;
+}
+   .font-11 p {
+    margin: 0px 19px;
+    padding: 0px 1px;
+    font-size: 10px;
+}
+    .foot-6 hr{
+  
+    border: 1px solid #8a7bd1;
+    margin: 20px;
+    padding: 0px 8px;
+}
+    button:hover{
+      color:orangered;
+    }
+    h5:hover{
+    color: aqua;
+    }
+    i:hover{
+        background-color:bisque;
+    }
+    button:hover {
+  opacity: 0.8;
+}
+   
+      input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+          border-radius: 10px;
+}
+
+.first-form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+    width: 270px;
+    height: 53px;
+    border-radius: 10px;
+}
+    .first-form h4{
+        color: white;
+    }
+.first-form cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+    background-color: #f44336;form-1
+}
+    .first-form {
+        background-image: url(../image/students.jpg);
+        position: relative;
+        background-attachment: fixed;
+    }
+
+
+  
+    // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+    
+    
+    
+     }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+    
